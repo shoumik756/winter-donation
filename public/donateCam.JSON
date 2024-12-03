@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "title": "Warm Clothes for Dhaka's Homeless",
+      "image": "https://i.ibb.co.com/f4ZDnhR/c1.jpg",
+      "description": "Help us provide warm clothing to the homeless community in Dhaka city this winter.",
+      "status": "Ongoing",
+      "contactInfo": "+880123456789",
+      "division": "Dhaka"
+    },
+    {
+      "id": 2,
+      "title": "Support Slum Areas in Dhaka",
+      "image": "https://i.ibb.co.com/B23WcTL/c2.jpg",
+      "description": "Provide winter clothing to families in Dhaka's underprivileged slum areas.",
+      "status": "Ongoing",
+      "contactInfo": "+8801122334455",
+      "division": "Dhaka"
+    },
+    {
+      "id": 3,
+      "title": "Winter Help for Khulna Orphans",
+      "image": "https://i.ibb.co.com/JHmZqsL/c3.jpg",
+      "description": "Donate warm clothes to orphanages across Khulna.",
+      "status": "Completed",
+      "contactInfo": "+8803344556677",
+      "division": "Khulna"
+    },
+    {
+      "id": 4,
+      "title": "Sylhet Winter Warmth Drive",
+      "image": "https://i.ibb.co.com/wKWyVmj/c4.jpg",
+      "description": "Join us in supporting families in Sylhet's coldest villages.",
+      "status": "Ongoing",
+      "contactInfo": "+880987654321",
+      "division": "Sylhet"
+    },
+    {
+      "id": 5,
+      "title": "Sylhet Blanket Donation Campaign",
+      "image": "https://i.ibb.co.com/cD18pVq/c5.jpg",
+      "description": "Donate blankets to vulnerable families in Sylhet during this winter.",
+      "status": "Upcoming",
+      "contactInfo": "+8805566778899",
+      "division": "Sylhet"
+    },
+    {
+      "id": 6,
+      "title": "Chattogram Hill Tract Aid",
+      "image": "https://i.ibb.co.com/smY4bs1/1.jpg",
+      "description": "Provide warm clothing to indigenous communities in Chattogram.",
+      "status": "Ongoing",
+      "contactInfo": "+8804455667788",
+      "division": "Chattogram"
+    },
+    {
+      "id": 7,
+      "title": "Chattogram Urban Warmth Campaign",
+      "image": "https://i.ibb.co.com/WnSnDSN/2.jpg",
+      "description": "Support urban low-income families in Chattogram this winter.",
+      "status": "Upcoming",
+      "contactInfo": "+8802233445566",
+      "division": "Chattogram"
+    },
+    {
+      "id": 8,
+      "title": "Rajshahi Cold Relief Fund",
+      "image": "https://i.ibb.co.com/Hpdxvp7/4.jpg",
+      "description": "Help provide warm clothing to families affected by extreme cold in Rajshahi.",
+      "status": "Completed",
+      "contactInfo": "+8806677889900",
+      "division": "Rajshahi"
+    },
+    {
+      "id": 9,
+      "title": "Rajshahi Blanket Distribution",
+      "image": "https://i.ibb.co.com/sWZH0Mw/3.jpg",
+      "description": "Donate blankets for those in need across rural Rajshahi.",
+      "status": "Ongoing",
+      "contactInfo": "+8807788996655",
+      "division": "Rajshahi"
+    },
+    {
+      "id": 10,
+      "title": "Khulna Elderly Winter Support",
+      "image": "https://i.ibb.co.com/Rhc4dwT/c10.jpg",
+      "description": "Support the elderly in Khulna with warm clothes and blankets this winter.",
+      "status": "Ongoing",
+      "contactInfo": "+8809988776655",
+      "division": "Khulna"
+    }
+  ]
+  
